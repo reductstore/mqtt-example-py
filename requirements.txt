@@ -1,0 +1,2 @@
+reduct-py~=1.8.1
+aiomqtt~=2.0.0
